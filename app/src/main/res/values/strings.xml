@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RACHA</string>
+    <string name="streak_subtitle">DÍAS CONSECUTIVOS</string>
+    <string name="btn_studied_today">Hoy sí estudié</string>
+    <string name="btn_already_studied">¡Completado hoy!</string>
+    <string name="history_title">ÚLTIMOS 7 DÍAS</string>
+    <string name="motivation_title">MENSAJE DEL DÍA</string>
+</resources>

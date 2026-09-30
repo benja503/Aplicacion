@@ -1,0 +1,6 @@
+{
+  "name": "RACHA",
+  "description": "Contador de racha de estudio en modo oscuro neón con registro diario y motivación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
